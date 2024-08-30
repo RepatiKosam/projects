@@ -6,7 +6,8 @@ const projects = [
     { name: 'Quiz', link: 'https://repatikosam.github.io/quiz'},
     { name: 'Chat', link: 'https://repatikosam.github.io/chat-frontend'},
     { name: 'Rock Paper Scissor', link: 'https://repatikosam.github.io/rock-paper-scissor'},
-    { name: 'Color Color', link: 'https://repatikosam.github.io/random-colors'}
+    { name: 'Color Color', link: 'https://repatikosam.github.io/random-colors'},
+    { name: 'Country Names', link: 'https://repatikosam.github.io/country'}
 ];
 projects.forEach((project)=>{
     const projectDiv = document.createElement("div");
